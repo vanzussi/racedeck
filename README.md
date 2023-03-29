@@ -1,1 +1,1 @@
-[head over to the racedeck](https://racedeck.azimuth.games)
+[race you to the racedeck](https://racedeck.azimuth.games)
