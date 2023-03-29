@@ -1,1 +1,1 @@
-# racedeck
+[head over to the racedeck](https://racedeck.azimuth.games)
